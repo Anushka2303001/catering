@@ -1,0 +1,35 @@
+
+body{
+	margin: 50px 50px 50px 25px;
+	background-color: #FFFFF0;
+}
+	p{
+	text-align: left;
+	margin: 40px 80px;
+	font-size: 23px;
+	font-family: Lobster Two;
+
+}
+h1{
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: Smokum;
+	word-spacing: 30px;
+	
+}
+h5{
+width: 50%;
+text-align: center;
+margin-left: 27%;
+font-family: Caveat;
+font-size: 29px;
+}
+div{
+	margin: 40px ;
+}
+h2{
+	font-family: Dancing Script;
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 50px;
+}
